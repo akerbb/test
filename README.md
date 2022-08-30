@@ -1,3 +1,2 @@
 # test
-Test
-UGUGG
+Detta är ett test!
