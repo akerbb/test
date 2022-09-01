@@ -1,0 +1,22 @@
+.main{
+  font-size:130%;
+  background: rgba(155, 155, 155, .4);
+  }
+  
+#box{
+  border:5px solid #000222;
+  border-radius: 2rem;
+  size: 50%;
+  }
+  
+h1, h2, p{
+  margin:2%;
+  font-family:sans-serif;
+  }
+
+button{
+  margin-left: 34px;
+  margin-bottom: 30px;
+  font-size: 105%;
+}
+  
